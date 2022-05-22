@@ -15,55 +15,64 @@ to learn and use.
 - and XAMPP for database
 
 ## Features & Functions
-### Home Page<br />
-![Home Page](Project_Screenshots/Home.png)<br />
+### Home Page
+Contains opening phrase and shortcut access to top 10 most popular programming languages present.
+![Home Page](Project_Screenshots/Home.png)
 
-#### SignIn/Register Page<br />
-![SignIn/Register Page](Project_Screenshots/SignIn_Register.png)<br />
-
-#### Language Details<br />
+#### Language Details
+Shows a particular language details. It can be seen from buttons present on the Home Page and Language Option Page.
 ![Language Details](Project_Screenshots/Lang_details.png)
 ![Language Details](Project_Screenshots/Lang_details2.png)
 ![Language Details](Project_Screenshots/Lang_details3.png)
-<br />
 
-### Language Option Page<br />
-![Language Options Page](Project_Screenshots/Lang_opt.png)<br />
+### SignIn/Register Page
+Opens when Signin/Register button present on the top right corner of the main frame is clicked. 
+![SignIn/Register Page](Project_Screenshots/SignIn_Register.png)
 
-#### Language Option Type Page<br />
+### Language Option Page
+Languages can be searched from the search bar, through language type selection bar, and directly accessed through the last panel - "Top Programming Languages".
+![Language Options Page](Project_Screenshots/Lang_opt.png)
+
+#### Language Option Type Page
+Opens from the Language Options Page showing all Language that falls under a particular type.
 ![Language Options Type](Project_Screenshots/Lang_opt_type.png)
 ![Language Options Type Details](Project_Screenshots/Lang_opt_type_details.png)
-<br />
 
-### Language List Page<br />
+### Language List Page
+Contains options to see programming languages list starting from a certain letter. The user can also give suggestion of a language that is not present in the database to the admin.
 ![Lang List Page](Project_Screenshots/Lang_list.png)
 ![Lang List Page](Project_Screenshots/Lang_list_suggestion.png)
-<br />
 
-### Admin Login Page<br />
+### Admin Login Page
+Admin Login Panel - Give access to the admin to Add Admins, Add Languages, Update already present language details, Delete languages and see the languages present.
 ![Admin Login Page](Project_Screenshots/Admin_login.png)
 ![Admin Login Page](Project_Screenshots/Admin_login2.png)
-<br />
 
-#### Add Admin Page<br />
-![Add Admin Page](Project_Screenshots/Add_admin.png)<br />
+#### Add Admin Page
+Give access to the admin to Add more Admins.
+![Add Admin Page](Project_Screenshots/Add_admin.png)
 
-#### Add Language Page<br />
-![Add Language Page](Project_Screenshots/Add_lang.png)<br />
+#### Add Language Page
+Give access to the admin to Add Languages.
+![Add Language Page](Project_Screenshots/Add_lang.png)
 
-#### Update Language Page<br />
+#### Update Language Page
+Give access to the admin to Update Language details of the already present languages in database.
 ![Update Language Page](Project_Screenshots/Update_lang.png)
 ![Update Language Page](Project_Screenshots/Update_lang2.png)
-<br />
 
-#### Delete Language Page<br />
-![Delete Language Page](Project_Screenshots/Delete_lang.png)<br />
+#### Delete Language Page
+Give access to the admin to Delete a particular language.
+![Delete Language Page](Project_Screenshots/Delete_lang.png)
 
-### Feedback Page <br />
-![Feedback Page](Project_Screenshots/Feedback.png)<br />
+### Feedback Page
+Allows the user to give feedback regarding the application and improvement suggestions.
+![Feedback Page](Project_Screenshots/Feedback.png)
 
-### Contact Page<br />
-![Contact Page](Project_Screenshots/Contact.png)<br />
+### Contact Page
+Admin Contact details.
+![Contact Page](Project_Screenshots/Contact.png)
 
-### About Us Page<br />
+### About Us Page
+Gives Description about the application.
 ![About Us Page](Project_Screenshots/About.png)
