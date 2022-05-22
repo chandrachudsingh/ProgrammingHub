@@ -15,77 +15,55 @@ to learn and use.
 - and XAMPP for database
 
 ## Features & Functions
-### Home Page
+### Home Page<br />
+![Home Page](Project_Screenshots/Home.png)<br />
 
-![Home Page](Project_Screenshots/Home.png)
+#### SignIn/Register Page<br />
+![SignIn/Register Page](Project_Screenshots/SignIn_Register.png)<br />
 
-
-#### SignIn/Register Page
-
-![SignIn/Register Page](Project_Screenshots/SignIn_Register.png)
-
-
-#### Language Details
-
+#### Language Details<br />
 ![Language Details](Project_Screenshots/Lang_details.png)
 ![Language Details](Project_Screenshots/Lang_details2.png)
 ![Language Details](Project_Screenshots/Lang_details3.png)
+<br />
 
+### Language Option Page<br />
+![Language Options Page](Project_Screenshots/Lang_opt.png)<br />
 
-### Language Option Page
-
-![Language Options Page](Project_Screenshots/Lang_opt.png)
-
-
-#### Language Option Type Page
-
+#### Language Option Type Page<br />
 ![Language Options Type](Project_Screenshots/Lang_opt_type.png)
 ![Language Options Type Details](Project_Screenshots/Lang_opt_type_details.png)
+<br />
 
-
-### Language List Page
-
+### Language List Page<br />
 ![Lang List Page](Project_Screenshots/Lang_list.png)
 ![Lang List Page](Project_Screenshots/Lang_list_suggestion.png)
+<br />
 
-
-### Admin Login Page
-
+### Admin Login Page<br />
 ![Admin Login Page](Project_Screenshots/Admin_login.png)
 ![Admin Login Page](Project_Screenshots/Admin_login2.png)
+<br />
 
+#### Add Admin Page<br />
+![Add Admin Page](Project_Screenshots/Add_admin.png)<br />
 
-#### Add Admin Page
+#### Add Language Page<br />
+![Add Language Page](Project_Screenshots/Add_lang.png)<br />
 
-![Add Admin Page](Project_Screenshots/Add_admin.png)
-
-
-#### Add Language Page
-
-![Add Language Page](Project_Screenshots/Add_lang.png)
-
-
-#### Update Language Page
-
+#### Update Language Page<br />
 ![Update Language Page](Project_Screenshots/Update_lang.png)
 ![Update Language Page](Project_Screenshots/Update_lang2.png)
+<br />
 
+#### Delete Language Page<br />
+![Delete Language Page](Project_Screenshots/Delete_lang.png)<br />
 
-#### Delete Language Page
+### Feedback Page <br />
+![Feedback Page](Project_Screenshots/Feedback.png)<br />
 
-![Delete Language Page](Project_Screenshots/Delete_lang.png)
+### Contact Page<br />
+![Contact Page](Project_Screenshots/Contact.png)<br />
 
-
-### Feedback Page
-
-![Feedback Page](Project_Screenshots/Feedback.png)
-
-
-### Contact Page
-
-![Contact Page](Project_Screenshots/Contact.png)
-
-
-### About Us Page
-
+### About Us Page<br />
 ![About Us Page](Project_Screenshots/About.png)
