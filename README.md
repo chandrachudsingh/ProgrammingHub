@@ -16,49 +16,76 @@ to learn and use.
 
 ## Features & Functions
 ### Home Page
+
 ![Home Page](Project_Screenshots/Home.png)
 
+
 #### SignIn/Register Page
+
 ![SignIn/Register Page](Project_Screenshots/SignIn_Register.png)
 
+
 #### Language Details
+
 ![Language Details](Project_Screenshots/Lang_details.png)
 ![Language Details](Project_Screenshots/Lang_details2.png)
 ![Language Details](Project_Screenshots/Lang_details3.png)
 
+
 ### Language Option Page
+
 ![Language Options Page](Project_Screenshots/Lang_opt.png)
 
+
 #### Language Option Type Page
+
 ![Language Options Type](Project_Screenshots/Lang_opt_type.png)
 ![Language Options Type Details](Project_Screenshots/Lang_opt_type_details.png)
 
+
 ### Language List Page
+
 ![Lang List Page](Project_Screenshots/Lang_list.png)
 ![Lang List Page](Project_Screenshots/Lang_list_suggestion.png)
 
+
 ### Admin Login Page
+
 ![Admin Login Page](Project_Screenshots/Admin_login.png)
 ![Admin Login Page](Project_Screenshots/Admin_login2.png)
 
+
 #### Add Admin Page
+
 ![Add Admin Page](Project_Screenshots/Add_admin.png)
 
+
 #### Add Language Page
+
 ![Add Language Page](Project_Screenshots/Add_lang.png)
 
+
 #### Update Language Page
+
 ![Update Language Page](Project_Screenshots/Update_lang.png)
 ![Update Language Page](Project_Screenshots/Update_lang2.png)
 
+
 #### Delete Language Page
+
 ![Delete Language Page](Project_Screenshots/Delete_lang.png)
 
+
 ### Feedback Page
-![Feedback Page](Project_Screenshots/feedback.png)
+
+![Feedback Page](Project_Screenshots/Feedback.png)
+
 
 ### Contact Page
+
 ![Contact Page](Project_Screenshots/Contact.png)
 
+
 ### About Us Page
+
 ![About Us Page](Project_Screenshots/About.png)
