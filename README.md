@@ -34,7 +34,7 @@ Languages can be searched from the search bar, through language type selection b
 ![Language Options Page](Project_Screenshots/Lang_opt.png)
 
 #### Language Option Type Page
-Opens from the Language Options Page showing all Language that falls under a particular type.
+Opens from the Language Options Page showing all Languages that falls under a particular type.
 ![Language Options Type](Project_Screenshots/Lang_opt_type.png)
 ![Language Options Type Details](Project_Screenshots/Lang_opt_type_details.png)
 
